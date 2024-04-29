@@ -11,4 +11,4 @@ Coloque seu e-mail em seuemail@gmail.com.
 Após isso realize os testes em sua máquina e divirta-se!
 
 OBS: Código para uso acadêmico, não utilize para meios ilegais.
-Código feio no Pycharm, em Janeiro de 2024.
+Código feito no Pycharm, em Janeiro de 2024.
