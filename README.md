@@ -8,7 +8,7 @@ Nele, será habilitado uma senha que fará a conexão do código com o Gmail.
 No código, em "password" coloque a senha que você recebeu no procedimento acima.
 Coloque seu e-mail em seuemail@gmail.com.
 
-Após isso realize os testes em sua máquina e divirta-se!
+Após isso, realize os testes em sua máquina e divirta-se!
 
 OBS: Código para uso acadêmico, não utilize para meios ilegais.
 Código feito no Pycharm, em Janeiro de 2024.
